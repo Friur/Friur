@@ -1,0 +1,90 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #000000;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+
+}
+
+header {
+    background-color: #000000;
+    color: white;
+    padding: 30px 20px;
+    text-align: center;
+}
+
+.cabecalho h1 {
+    margin: 0;
+    font-size: 2em;
+    
+}
+
+.cabecalho h2 {
+    margin: 10px 0 0;
+    font-weight: normal;
+    font-size: 1.2em;
+}
+
+main {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 20px;
+    
+}
+
+.secao {
+    margin-bottom: 40px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    padding: 20px;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.secao h2 {
+    margin-top: 0;
+    color: #03023a;
+}
+
+.lista-horizontal {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    
+}
+
+.lista-horizontal li {
+    background-color: #ffffff;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.contato {
+    list-style: none;
+    padding: 0;
+    line-height: 2em;
+}
+
+.contato a {
+    color: #00796b;
+    text-decoration: none;
+}
+
+.contato a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    background-color: #000000;
+    text-align: center;
+    color: white;
+    padding: 20px 0;
+    margin-top: 40px;
+}
