@@ -32,5 +32,11 @@
   </a>
 </div>
 
-### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pbedrock&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) [<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />](https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif)
+###
+
+<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+
+<h2>Spotify Playing 🎧 </h2>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pbedrock&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=pbedrock&redirect=true) 
