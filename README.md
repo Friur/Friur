@@ -39,6 +39,5 @@
 
 <h2>Spotify Playing 🎧 </h2>
 
-<a href="https://open.spotify.com/user/pbedrock" target="_blank">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pbedrock&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-</a>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pbedrock&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31wi36lubzmwrrvpbbmhxflmefvu)
+
