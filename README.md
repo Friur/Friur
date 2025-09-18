@@ -33,3 +33,4 @@
 </div>
 
 ###
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/pbedrock?si=3533659ed6e24c6b)
